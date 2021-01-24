@@ -1,6 +1,14 @@
-# pixiv_download
-pixiv图片爬虫保存代码见上方
+# pixiv 插图网站代码分享和插画图分享
 
-### 如果你想直接获取这些插画，加我微信(RookieProM)，我把我爬取的少量插画分享给你
+### pixiv图片爬虫保存代码见上方，代码包括：
+1、构建国内代理 ip 池代码
+2、构建国外代理 ip 池代码
+3、加上代理ip池后爬取 pixiv 网站插画图的优化代码
 
-![wechat](https://github.com/Brucepk/pk.github.io/blob/master/%E5%BE%AE%E4%BF%A12%E5%8F%B7pk2pk%E5%93%A5.png)
+### 如果你想直接获取这些插画，加下面微信，我把我爬取的今日、本月、本周、新人模式插画都分享给你
+
+![](http://blog.pyzhishiquan.com/img/20210124195637.png)
+
+文案部分首发于公众号「Python知识圈」，更多有趣的爬虫项目请关注我的公众号「Python知识圈」
+
+![](http://blog.pyzhishiquan.com/img/20210124200045.jpg)
